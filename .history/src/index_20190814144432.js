@@ -8,9 +8,9 @@ function MyApp() {
   return (
       <div>
         <ul>
-          <li>Apple</li>
-          <li>Banana</li>
-          <li>Orange</li>
+          <li>This is it Pancit</li>
+          <li>This is it Pancit</li>
+          <li>This is it Pancit</li>
         </ul>
         <App />
       </div>
